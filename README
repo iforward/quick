@@ -1,0 +1,19 @@
+INSTALLATION
+------------
+Please make sure the release file is unpacked under a Web-accessible
+directory. You shall see the following files and directories:
+
+    cms/              
+    framework/         
+    system/             
+    index/               
+    www/                
+    README               this file
+
+
+依赖扩展:
+    curl
+    bcmath
+    mbstring
+    redis
+    pdo_mysql
